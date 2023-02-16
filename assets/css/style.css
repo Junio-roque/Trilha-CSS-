@@ -1,0 +1,234 @@
+body {
+   background-color: black;
+}
+
+h1 {
+    color: #33A8DB;
+}
+
+p {
+
+color: #FFFFFF;
+
+}
+
+/*header*/
+
+.logo {
+    margin: auto;
+    padding: auto;
+    width: 20rem;
+}
+
+.logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner-content h1{
+    margin: auto;
+    margin-bottom: 1rem;
+    width: 29rem;
+    padding: auto;
+    text-align: center;
+    color: #31A8DD;
+    font-family: 'Raleway';
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+    color: transparent;
+    background: -webkit-linear-gradient(#33A8DB, #1472B7);
+    background-clip: text;
+    -webkit-background-clip: text;
+
+}
+
+.banner-content p {
+    margin: auto;
+    width: 30rem;
+    text-align: justify;
+    text-transform: initial;
+    font-size: 20px;
+    font-family: 'Raleway';
+    font-style: normal;
+    letter-spacing: .5px;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.banner-content button {
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18rem;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: 14px;
+    text-transform: uppercase;
+    border: 1px solid #31A8DD;
+    padding: 1rem;
+    color: #31A8DD;
+    background-color: black;
+    
+}
+
+
+/*fim header*/
+
+hr {
+    border-color: #31A8DD;
+    margin-bottom: 5rem;
+}
+/*main*/
+.module {
+    color: #FFFFFF;
+}
+span {
+    color: #31A8DD
+}
+
+h2 {
+    color: #31A8DD;
+    
+}
+
+#transform-world img {
+    width: 90rem;
+}
+
+#course-content {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    width: 53rem;
+}
+
+#course-content h2 {
+  
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+letter-spacing: 0.1rem;
+text-transform: uppercase;
+}
+
+#course-content p {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.1rem;
+}
+
+.modules-list {
+    margin: auto;
+    padding: auto;
+    width: 37rem;
+    margin-bottom: 5rem;
+}
+
+.module {
+    width: 33rem;
+    margin: 1rem;
+    padding: 1rem;
+    font-family: 'Raleway';
+    border: 1px solid #31A8DD;
+    border-radius: 3rem;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    align-items: center;
+    letter-spacing: 0.1rem;
+    background-color: #252525;
+}
+
+#transform-world {
+    height: 560px;
+    background-size: cover;
+    background-image: url("../images/woman-code.png");
+    background-attachment: fixed;
+    border-top: 1px solid #33A8DB80;
+    border-bottom: 1px solid #33A8DB80;
+    padding: 200px;
+}
+
+#transform-world p {
+    font-family: 'Raleway';
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+    font-weight: 900;
+    font-size: 2.5rem;
+    text-transform: lowercase;
+    max-width: 250px;
+    text-shadow: 3px 2px #33A8DB;
+}
+
+#professional-challenges {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 53rem;  
+}
+
+#professional-challenges h2 { 
+    width: 53rem; 
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    letter-spacing: 0.19em;
+    
+}
+
+#professional-challenges img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}    
+
+
+
+#professional-challenges p {
+    width: 53rem;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+    font-family: 'Raleway';
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+}
+
+/*fim main*/
+
+/*footer*/
+footer {
+    padding: 10px 0;
+    text-align: center;
+    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+   
+  }
+  
+  footer .dio-logo {
+    width: 300px;
+  }
+  
+  footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+/*fim footer*/
